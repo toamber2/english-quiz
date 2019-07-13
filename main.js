@@ -14,3 +14,16 @@ function generateQuiz(questions, quizContainer, resultsContainer,submitButton){
     }
 }
 }
+var myQuestions = [
+    {
+        question:"",
+        answers: {
+            a: "",
+            b: "",
+            c: "",
+            d: "",
+        },
+        correctAnswer: ''
+    },
+    
+]
