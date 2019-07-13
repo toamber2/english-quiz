@@ -16,103 +16,103 @@ function generateQuiz(questions, quizContainer, resultsContainer,submitButton){
 }
 var myQuestions = [
     {
-        question:"",
+        question:"1. I ___ English for two years.",
         answers: {
-            a: "",
-            b: "",
-            c: "",
-            d: "",
+            a: "was study",
+            b: "make studying",
+            c: "have studying",
+            d: "have been studying",
         },
-        correctAnswer: ''
+        correctAnswer: "d"
     },
     {
-        question:"",
+        question:"2. Her bike ___ from outside the school.",
         answers: {
-            a: "",
-            b: "",
-            c: "",
-            d: "",
+            a: "has stolen",
+            b: "is steal",
+            c: "was stolen",
+            d: "was stole",
         },
-        correctAnswer: ''
+        correctAnswer: "c"
     },
     {
-        question:"",
+        question:"3. I ___ waking up early on the weekend.",
         answers: {
-            a: "",
-            b: "",
-            c: "",
-            d: "",
+            a: "am hating",
+            b: "hated",
+            c: "hating",
+            d: "hate",
         },
-        correctAnswer: ''
+        correctAnswer: "d"
     },
     {
-        question:"",
+        question:"4. Tomorrow, ___ to the dentist.",
         answers: {
-            a: "",
-            b: "",
-            c: "",
-            d: "",
+            a: "I going",
+            b: "I am going",
+            c: "I will to go",
+            d: "I is go",
         },
-        correctAnswer: ''
+        correctAnswer: "b"
     },
     {
-        question:"",
+        question:"5. She ___ a new laptop for her sister last week.",
         answers: {
-            a: "",
-            b: "",
-            c: "",
-            d: "",
+            a: "bought",
+            b: "is buying",
+            c: "had bought",
+            d: "will buy",
         },
-        correctAnswer: ''
+        correctAnswer: "a"
     },
     {
-        question:"",
+        question:"6. Do you want to ___ in Lapland with me?",
         answers: {
-            a: "",
-            b: "",
-            c: "",
-            d: "",
+            a: "play skiing",
+            b: "do ski",
+            c: "make skiing",
+            d: "go skiing",
         },
-        correctAnswer: ''
+        correctAnswer: "d"
     },
     {
-        question:"",
+        question:"7. They ___ all the cookies before he arrived.",
         answers: {
-            a: "",
-            b: "",
-            c: "",
-            d: "",
+            a: "had finished",
+            b: "to finish",
+            c: "finishing",
+            d: "has finished",
         },
-        correctAnswer: ''
+        correctAnswer: "a"
     },
     {
-        question:"",
+        question:"8. By this time next year, Jason ___ college.",
         answers: {
-            a: "",
-            b: "",
-            c: "",
-            d: "",
+            a: "has graduated",
+            b: "will have graduated",
+            c: "is graduating",
+            d: "going to graduate",
         },
-        correctAnswer: ''
+        correctAnswer: "b"
     },
     {
-        question:"",
+        question:"9. I ___ to the movies, but I was too busy studying.",
         answers: {
-            a: "",
-            b: "",
-            c: "",
-            d: "",
+            a: "would to go",
+            b: "would going",
+            c: "would had go",
+            d: "would have gone",
         },
-        correctAnswer: ''
+        correctAnswer: "d"
     },
     {
-        question:"",
+        question:"10. I think ___ with your family is important.",
         answers: {
-            a: "",
-            b: "",
-            c: "",
-            d: "",
+            a: "spend time",
+            b: "spending time",
+            c: "spent time",
+            d: "had spent time",
         },
-        correctAnswer: ''
+        correctAnswer: "b"
     },
 ]
